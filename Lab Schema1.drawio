@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="43j7cuwcbsQqBALMBS5N">
+    <mxGraphModel dx="934" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Kameleon_Free_Pack-2373/Hacker-1007.svg" value="" vertex="1">
+          <mxGeometry height="110" width="110" x="110" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ATTACKER VM (Kali)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="135" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=1;fontSize=14;" value="&lt;b&gt;Enterprise&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="399.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-5" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.windows_server" value="" vertex="1">
+          <mxGeometry height="50" width="39" x="410" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Ubuntu server&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="660" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-8" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Operating_System__Flat_-2035/windows_10-745.svg" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="350" y="366" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-9" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" value="" vertex="1">
+          <mxGeometry height="46" width="50" x="479.5" y="373" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-10" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Operating_System__Flat_-2035/ubuntu-750.svg" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="675" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-12" edge="1" parent="1" source="9IfBLemXN4WtqlOEHNKd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9IfBLemXN4WtqlOEHNKd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-14" edge="1" parent="1" source="9IfBLemXN4WtqlOEHNKd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9IfBLemXN4WtqlOEHNKd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Windows Server 2022&lt;/b&gt;&lt;br&gt;&lt;div&gt;(Active Directory)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="359.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Windows 10&lt;br&gt;&lt;/b&gt;(Client)" vertex="1">
+          <mxGeometry height="30" width="80" x="340" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Windows 11&lt;/b&gt;&lt;/div&gt;(Client)" vertex="1">
+          <mxGeometry height="30" width="80" x="464.5" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="&lt;u&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Own Enterprise DFIR Lab&lt;/i&gt;&lt;/font&gt;&lt;/u&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="299.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=6;spacingTop=1;spacingBottom=0;fontSize=13;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;u&gt;For monitoring:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. Security Onion&lt;br&gt;2. Wazuh&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=11;" value="&lt;div&gt;&lt;span&gt;Pswd: Admin123&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

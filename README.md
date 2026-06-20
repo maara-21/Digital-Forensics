@@ -1,5 +1,5 @@
-## Enterprise DFIR Lab
-# My possessions from this project:
+# Enterprise DFIR Lab
+## My possessions from this project:
 
 * 1 complete DFIR home lab.
 * 5 incident investigations.

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="43j7cuwcbsQqBALMBS5N">
-    <mxGraphModel dx="1404" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,8 +46,8 @@
         <mxCell id="9IfBLemXN4WtqlOEHNKd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;" value="&lt;div&gt;&lt;u&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Enterprise DFIR Lab Architechture&lt;/i&gt;&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="270" x="299.5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="9IfBLemXN4WtqlOEHNKd-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=6;spacingTop=1;spacingBottom=0;fontSize=13;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;u&gt;For monitoring:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. Security Onion&lt;br&gt;2. Wazuh&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="150" x="60" y="260" as="geometry" />
+        <mxCell id="9IfBLemXN4WtqlOEHNKd-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacing=6;spacingTop=1;spacingBottom=0;fontSize=13;" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;u&gt;For monitoring:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;1. Security Onion&lt;br&gt;2. Wazuh&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Option:&lt;/b&gt;&lt;br&gt;&lt;div&gt;pfsense Firewall&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="60" y="280" as="geometry" />
         </mxCell>
         <mxCell id="9IfBLemXN4WtqlOEHNKd-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=11;" value="&lt;div&gt;&lt;span&gt;Pswd: Admin123&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="470" y="200" as="geometry" />
